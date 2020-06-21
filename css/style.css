@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(235, 235, 235);
+}
+.jarak-admin{
+    margin-top: 5%;
+}
+@media(max-width: 760px){
+    .jarak-admin{
+        margin-top: 60%;
+    }
+}
+.copyright{
+    font-size: 17px;
+    text-align: center;
+}
